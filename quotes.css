@@ -1,0 +1,48 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: #b4d5db;
+}
+main{
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center ;
+    justify-content: center;
+    width: 100%;
+    height: 75vh;
+}
+.quote{
+    width: 450px;
+    height: 300px;
+    display: block flex;
+    block-size: auto;
+    background-color: #2ca7bcd9;
+    border-radius: 25px; 
+}
+.upper {
+    font-size: 2rem;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text{
+    padding: 5%;
+    padding-bottom:5%;
+    font-weight: 400;
+}
+.container{
+    width: 100%;
+    height:100%;
+    text-align: center;
+}
+.btn{
+    font-size: 1.5rem;
+    background-color: #54cee3;
+    font-weight: 500;
+    color: white;
+    border-style: none;
+    padding: 1% 2% 1% 2% ;
+    border-radius: 25px;
+}
